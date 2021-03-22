@@ -7,7 +7,7 @@ namespace DCovic
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Roko!");
-            
+            Console.WriteLine("Hello Domagoj!");
         }
     }
 }
